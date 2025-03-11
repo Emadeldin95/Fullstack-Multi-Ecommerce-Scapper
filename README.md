@@ -7,6 +7,10 @@ This project is a full-stack web scraper for e-commerce websites built with Play
 - View scraped data in real-time
 - Download the scraped data as an Excel file
 
+## Screenshots
+![Screenshot 1](screenshot1.png)
+![Screenshot 2](screenshot2.png)
+
 ## Installation
 
 1. Clone this repository:
@@ -32,6 +36,3 @@ This project is a full-stack web scraper for e-commerce websites built with Play
 - Click "Stop Scraping" to halt the process.
 - Click "Download Data" to save the scraped data as a CSV file.
 
-## Screenshots
-![Screenshot 1](screenshot1_placeholder.png)
-![Screenshot 2](screenshot2_placeholder.png)
